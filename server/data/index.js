@@ -14,8 +14,8 @@ const userIds = [
 export const users = [
   {
     _id: userIds[0],
-    firstName: "test",
-    lastName: "me",
+    firstName: "stef",
+    lastName: "louis ",
     email: "aaaaaaa@gmail.com",
     password: "$2b$10$dsasdgsagasda//G9JxQ4bQ8KXf4OAIe/X/AK9skyWUy",
     picturePath: "p11.jpeg",
@@ -30,8 +30,8 @@ export const users = [
   },
   {
     _id: userIds[1],
-    firstName: "Steve",
-    lastName: "Ralph",
+    firstName: "Emma",
+    lastName: "James",
     email: "thataaa@gmail.com",
     password: "$!FEAS@!O)_IDJda//G9JxQ4bQ8KXf4OAIe/X/AK9skyWUy",
     picturePath: "p3.jpeg",
@@ -46,8 +46,8 @@ export const users = [
   },
   {
     _id: userIds[2],
-    firstName: "Some",
-    lastName: "Guy",
+    firstName: "Emma",
+    lastName: "Oliver",
     email: "someguy@gmail.com",
     password: "da39a3ee5e6b4b0d3255bfef95601890afd80709",
     picturePath: "p4.jpeg",
@@ -62,8 +62,8 @@ export const users = [
   },
   {
     _id: userIds[3],
-    firstName: "Whatcha",
-    lastName: "Doing",
+    firstName: "Sophia",
+    lastName: "Lucas",
     email: "whatchadoing@gmail.com",
     password: "$2b$10$dsasdgsagasda//G9JxQ4bQ8KXf4OAIe/X/AK9skyWUy",
     picturePath: "p6.jpeg",
@@ -78,7 +78,7 @@ export const users = [
   },
   {
     _id: userIds[4],
-    firstName: "Jane",
+    firstName: "Evelyn",
     lastName: "Doe",
     email: "janedoe@gmail.com",
     password: "$2b$10$dsasdgsagasda//G9JxQ4bQ8KXf4OAIe/X/AK9skyWUy",
@@ -94,8 +94,8 @@ export const users = [
   },
   {
     _id: userIds[5],
-    firstName: "Harvey",
-    lastName: "Dunn",
+    firstName: "Noah",
+    lastName: "Elijah",
     email: "harveydunn@gmail.com",
     password: "$2b$10$dsasdgsagasda//G9JxQ4bQ8KXf4OAIe/X/AK9skyWUy",
     picturePath: "p7.jpeg",
@@ -110,7 +110,7 @@ export const users = [
   },
   {
     _id: userIds[6],
-    firstName: "Carly",
+    firstName: "Ava",
     lastName: "Vowel",
     email: "carlyvowel@gmail.com",
     password: "$2b$10$dsasdgsagasda//G9JxQ4bQ8KXf4OAIe/X/AK9skyWUy",
@@ -127,7 +127,7 @@ export const users = [
   {
     _id: userIds[7],
     firstName: "Jessica",
-    lastName: "Dunn",
+    lastName: "Henry",
     email: "jessicadunn@gmail.com",
     password: "$2b$10$dsasdgsagasda//G9JxQ4bQ8KXf4OAIe/X/AK9skyWUy",
     picturePath: "p9.jpeg",
