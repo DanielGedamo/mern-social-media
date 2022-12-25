@@ -24,11 +24,10 @@
     "yup": "^0.32.11"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node index.js",
-    "server": "nodemon index.js",
-    "build": "cd client && npm install && npm run build",
-    "dev": "concurrently --kill-others-on-fail \"npm run server\" \"npm run client\""
+    "test": "react-scripts test",
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "eject": "react-scripts eject"
   },
   "eslintConfig": {
     "extends": [
