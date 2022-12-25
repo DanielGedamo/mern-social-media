@@ -38,7 +38,7 @@ export const register = async (req, res) => {
   }
 };
 
-/* LOGGING IN */
+/* LOGING IN */
 export const login = async (req, res) => {
   try {
     const { email, password } = req.body;
